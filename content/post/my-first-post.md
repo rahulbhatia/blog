@@ -6,3 +6,5 @@ draft: false
 
 Good morning, this is my first post!
 
+Welcome to My blog! I'm still learning how this works. 
+
